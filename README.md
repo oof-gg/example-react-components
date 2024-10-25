@@ -18,7 +18,7 @@ npx create-react-app . --template typescript
 ### Install GSAP
 You can install GSAP using npm:
 ```bash
-npm install gsap
+npm install gsap --save
 ```
 
 ### Include GSAP in your project
