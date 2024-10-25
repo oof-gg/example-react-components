@@ -31,6 +31,9 @@ import { gsap } from 'gsap';
 1. Parallax Effect using GSAP `/src/components/MouseParallax.tsx`
 2. Word Flip Effect using GSAP `/src/components/Flipper.tsx`
 
+## Demo
+[Parallax and Word Flip](/data/parallax-flipper.mp4)
+
 ## Running the project
 To run the project, you can use the following command:
 ```bash
