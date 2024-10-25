@@ -10,31 +10,20 @@ To get started with GSAP, you need to include the GSAP library in your project. 
 3. npx (Node Package Runner)
 
 ### Initialize your React project
-In order to create a new React project, you can use the following command:
 ```bash
 npx create-react-app . --template typescript
 ```
 
 ### Install GSAP
-You can install GSAP using npm:
 ```bash
 npm install gsap
 ```
 
 ### Include GSAP in your project
-You can include GSAP in your project using the following import statement:
 ```javascript
 import { gsap } from 'gsap';
 ```
 
 ## Examples
-1. Parallax Effect using GSAP `/src/components/MouseParallax.tsx`
-2. Word Flip Effect using GSAP `/src/components/Flipper.tsx`
-
-## Running the project
-To run the project, you can use the following command:
-```bash
-git clone https://github.com/oof-gg/example-react-components.git
-npm install
-npm start
-```
+1. Parallax Effect
+2. Flipping Card
