@@ -5,9 +5,10 @@ This repository contains examples of animations using GSAP (GreenSock Animation 
 To get started with GSAP, you need to include the GSAP library in your project. You can download the GSAP library from the official website or use the CDN link to include it in your project.
 
 ### Pre-requisites
-1. Node.js (https://nodejs.org/)
-2. npm (Node Package Manager)
-3. npx (Node Package Runner)
+1. A computer.
+2. Node.js (https://nodejs.org/)
+3. npm (Node Package Manager)
+4. npx (Node Package Runner)
 
 ### Initialize your React project
 In order to create a new React project, you can use the following command:
