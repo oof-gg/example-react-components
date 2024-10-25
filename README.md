@@ -32,7 +32,8 @@ import { gsap } from 'gsap';
 2. Word Flip Effect using GSAP `/src/components/Flipper.tsx`
 
 ## Demo
-[Parallax and Word Flip](/data/parallax-flipper.mp4)
+Example of Parallax and Word Flip effect using GSAP. To see the real performance of GSAP, you can run the project and see the animations in action.
+![Parallax and Word Flip](/data/parallax-flipper.gif)
 
 ## Running the project
 To run the project, you can use the following command:
